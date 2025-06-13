@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gustavo Marques de Lima</h1>
-<h3 align="center">Fullstack Developer | Automation Specialist | C# Enthusiast</h3>
+<h3 align="center">Fullstack Developer | SaaS & Automation Specialist | C# / Node.js / React Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about building high-performance web applications and automation solutions.
+  🚀 Passionate about building high-performance SaaS products, web applications, and automation solutions.
 </p>
 
 ---
 
 ### 🔥 About Me  
-- 🎓 **B.Sc. in Computer Science from FEI**  
-- 💻 **Fullstack Developer** specializing in **C#**, **React**, **Node.js (Express)**, and **Windows Forms**  
-- ⚙️ **Automation Expert**, skilled in **RPA, Excel VBA**, and backend automation solutions  
+- 👨‍💻 **Fullstack Developer** specialized in **Node.js**, **React**, **Next.js**, **C#**, **.NET**, and **Python**  
+- 🚀 Creator & Developer of **Investiga+** → a SaaS platform in production for intelligent CNPJ analysis 👉 [https://investigamais.com](https://investigamais.com)  
+- 🎓 **B.Sc. in Computer Science from FEI** *(ongoing)*  
+- ⚙️ **Automation Expert** → RPA, Selenium, Playwright, Excel VBA, backend automation  
 - 🏆 Certified by **RocketSeat** and other leading platforms  
-- 🚀 Currently working on **cutting-edge web and automation projects**  
+- 🌍 Building full solutions: from **backend APIs**, **frontend UX** to **DevOps and CI/CD**  
 - 📫 Reach me at **gustavomarquesmm@gmail.com**  
 
 ---
