@@ -8,6 +8,12 @@ Fullstack Product Engineer | React • Next.js • Node.js • TypeScript | SaaS
   I build production-oriented SaaS products, automation platforms, APIs, dashboards, and AI-powered tools with a strong focus on architecture, performance, usability, and business impact.
 </p>
 
+<p align="center">
+  <a href="https://devflowlabs.com.br">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/gustavo-marques-00">LinkedIn</a> •
+  <a href="mailto:gustavomarquesmm@gmail.com">Email</a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -30,6 +36,8 @@ Product lab focused on SaaS, automation, AI-assisted workflows and business tool
 
 **Stack:** Next.js, TypeScript, React, Tailwind CSS, Node.js, Prisma, PostgreSQL, Supabase, Stripe, OpenAI, WhatsApp Cloud API, Vercel, GitHub Actions.
 
+**Focus:** product architecture, multi-tenant SaaS, automation, AI workflows, billing, dashboards and integrations.
+
 ---
 
 ### 🔎 Investiga+
@@ -46,12 +54,16 @@ Local-first workflow assistant for job applications, focused on LinkedIn Easy Ap
 
 **Stack:** Chrome Extension MV3, Next.js, TypeScript, local storage, automation helpers, privacy-first architecture.
 
+**Focus:** privacy-first automation, local-first data, candidate productivity and application tracking.
+
 ---
 
 ### 💬 WhatsApp Platform
 Multi-tenant WhatsApp Cloud API platform for customer support, automation, AI replies, operational metrics, activation control and billing.
 
 **Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Meta WhatsApp Cloud API, Stripe, OpenAI, role-based access, webhooks.
+
+**Focus:** inbox operations, AI-assisted replies, usage-based billing, activation workflows and production monitoring.
 
 ---
 
@@ -60,12 +72,16 @@ Financial management product with health score, insights, monthly checklist, cat
 
 **Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS, product analytics and business rules.
 
+**Focus:** financial health score, actionable insights, monthly routines and user-oriented dashboards.
+
 ---
 
 ### 🎯 Career Suite / ATS Tools
 AI-assisted career tools for resume analysis, job matching, interview preparation and application workflows.
 
 **Stack:** Next.js, TypeScript, local-first analysis, OpenAI API, ATS-style scoring, documentation as product.
+
+**Focus:** resume matching, job analysis, interview preparation and AI-assisted career workflows.
 
 ---
 
