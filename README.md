@@ -10,6 +10,7 @@ Fullstack Product Engineer | React • Next.js • Node.js • TypeScript | SaaS
 
 <p align="center">
   <a href="https://devflowlabs.com.br">Portfolio</a> •
+  <a href="https://github.com/devflow-modules">DevFlow Labs GitHub</a> •
   <a href="https://www.linkedin.com/in/gustavo-marques-00">LinkedIn</a> •
   <a href="mailto:gustavomarquesmm@gmail.com">Email</a>
 </p>
@@ -34,6 +35,9 @@ Fullstack Product Engineer | React • Next.js • Node.js • TypeScript | SaaS
 ### 🧠 DevFlow Labs
 Product lab focused on SaaS, automation, AI-assisted workflows and business tools.
 
+**GitHub Organization:** https://github.com/devflow-modules  
+**Portfolio:** https://devflowlabs.com.br
+
 **Stack:** Next.js, TypeScript, React, Tailwind CSS, Node.js, Prisma, PostgreSQL, Supabase, Stripe, OpenAI, WhatsApp Cloud API, Vercel, GitHub Actions.
 
 **Focus:** product architecture, multi-tenant SaaS, automation, AI workflows, billing, dashboards and integrations.
@@ -43,9 +47,12 @@ Product lab focused on SaaS, automation, AI-assisted workflows and business tool
 ### 🔎 Investiga+
 SaaS platform for company data lookup and CNPJ analysis, built with secure authentication, API integrations, cache, history, webhooks and automated tests.
 
+**Repository:** https://github.com/devflow-modules/investiga-mais  
+**Live:** https://investigamais.com
+
 **Stack:** Next.js, React, Node.js, Express, Prisma ORM, PostgreSQL, Chakra UI, Docker, Jest, GitHub Actions.
 
-**Live:** https://investigamais.com
+**Focus:** secure authentication, company data analysis, external API integration, cached searches, usage history and SaaS-ready architecture.
 
 ---
 
@@ -130,5 +137,6 @@ OpenAI API • WhatsApp Cloud API • Stripe • ReceitaWS • Webhooks • CRM 
 
 - LinkedIn: https://www.linkedin.com/in/gustavo-marques-00
 - GitHub: https://github.com/gustavomarques00
+- DevFlow Labs GitHub: https://github.com/devflow-modules
 - Email: gustavomarquesmm@gmail.com
 - Portfolio: https://devflowlabs.com.br
