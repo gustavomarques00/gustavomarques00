@@ -1,98 +1,138 @@
-<h1 align="center">Hi 👋, I'm Gustavo Marques de Lima</h1>
+<h1 align="center">Hi, I'm Gustavo Marques de Lima</h1>
 
 <h3 align="center">
-Fullstack Product Engineer | React • Next.js • Node.js • TypeScript | SaaS, AI & Automation
+Fullstack Product Engineer | SaaS, Automation & AI Workflows | React • Next.js • Node.js • TypeScript
 </h3>
 
 <p align="center">
-  I build production-oriented SaaS products, automation platforms, APIs, dashboards, and AI-powered tools with a strong focus on architecture, performance, usability, and business impact.
+  I build production-oriented SaaS products, automation platforms, APIs, dashboards and AI-assisted workflows with a strong focus on architecture, security, usability and business impact.
 </p>
 
 <p align="center">
   <a href="https://devflowlabs.com.br">Portfolio</a> •
   <a href="https://github.com/devflow-modules">DevFlow Labs GitHub</a> •
+  <a href="https://github.com/devflow-modules/devflow/blob/main/docs/RECRUITER-GUIDE.md">Recruiter Guide</a> •
   <a href="https://www.linkedin.com/in/gustavo-marques-00">LinkedIn</a> •
   <a href="mailto:gustavomarquesmm@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## Recruiter Summary
 
-- 💻 Fullstack Developer focused on **React, Next.js, Node.js, TypeScript, Python and PostgreSQL**
-- 🧠 Founder & Product Engineer at **DevFlow Labs**
-- 🛠️ Creator of products such as **Investiga+**, **ApplyFlow**, **WhatsApp Platform**, **DevFlow Financeiro**, and **Career Suite**
-- ⚙️ Experience with **REST APIs, authentication, JWT, Prisma, Docker, CI/CD, webhooks and third-party integrations**
-- 🤖 Practical experience applying **AI/OpenAI** to product workflows, automation, documentation, ATS analysis and productivity tools
-- 🎓 B.Sc. in Computer Science from **Centro Universitário FEI**
-- 📍 Based in Santos, São Paulo, Brazil
-- 🌎 Advanced English — available for remote opportunities
+I am a Fullstack Product Engineer based in Santos, São Paulo, Brazil, focused on building complete digital products — from product strategy and architecture to implementation, testing, documentation and deployment.
+
+My strongest work is organized under **DevFlow Labs**, a product engineering ecosystem focused on SaaS platforms, automation, AI-assisted productivity and business tools.
+
+**Best fit roles:** Fullstack Engineer, Product Engineer, Senior Frontend Engineer, SaaS Engineer, Automation Engineer, AI Workflow Engineer.
 
 ---
 
-## 🧩 Featured Products & Projects
+## Best Projects to Review First
 
-### 🧠 DevFlow Labs
-Product lab focused on SaaS, automation, AI-assisted workflows and business tools.
+### 1. DevFlow WhatsApp Platform
 
-**GitHub Organization:** https://github.com/devflow-modules  
-**Portfolio:** https://devflowlabs.com.br
+**Repository:** https://github.com/gustavomarques00/devflow-whatsapp-platform
 
-**Stack:** Next.js, TypeScript, React, Tailwind CSS, Node.js, Prisma, PostgreSQL, Supabase, Stripe, OpenAI, WhatsApp Cloud API, Vercel, GitHub Actions.
+Production-ready multi-tenant WhatsApp Cloud API backend built with Node.js, TypeScript, Express, Prisma and PostgreSQL.
 
-**Focus:** product architecture, multi-tenant SaaS, automation, AI workflows, billing, dashboards and integrations.
+**Why it matters:**
+
+- Multi-tenant SaaS architecture
+- WhatsApp Cloud API webhooks
+- Tenant-scoped data access
+- AES-256-GCM token encryption
+- HMAC-SHA256 phone hashing
+- Structured logging, redaction and rate limiting
+- Jest, CI, TypeScript strict and production-oriented backend structure
+
+**Best for evaluating:** backend architecture, security, API integrations, multi-tenant design and production readiness.
 
 ---
 
-### 🔎 Investiga+
-SaaS platform for company data lookup and CNPJ analysis, built with secure authentication, API integrations, cache, history, webhooks and automated tests.
+### 2. Investiga+
 
 **Repository:** https://github.com/devflow-modules/investiga-mais  
 **Live:** https://investigamais.com
 
-**Stack:** Next.js, React, Node.js, Express, Prisma ORM, PostgreSQL, Chakra UI, Docker, Jest, GitHub Actions.
+SaaS platform for CNPJ/company intelligence and business data analysis.
 
-**Focus:** secure authentication, company data analysis, external API integration, cached searches, usage history and SaaS-ready architecture.
+**Why it matters:**
 
----
+- Fullstack SaaS delivery
+- Secure authentication with JWT + HttpOnly Cookies
+- CNPJ lookup with external API integration
+- Local cache strategy for repeated searches
+- User-scoped search history
+- Modular backend architecture
+- Automated tests with Jest
+- Docker and CI/CD-ready structure
 
-### 📩 ApplyFlow
-Local-first workflow assistant for job applications, focused on LinkedIn Easy Apply productivity, job tracking, metrics and candidate intelligence.
-
-**Stack:** Chrome Extension MV3, Next.js, TypeScript, local storage, automation helpers, privacy-first architecture.
-
-**Focus:** privacy-first automation, local-first data, candidate productivity and application tracking.
-
----
-
-### 💬 WhatsApp Platform
-Multi-tenant WhatsApp Cloud API platform for customer support, automation, AI replies, operational metrics, activation control and billing.
-
-**Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Meta WhatsApp Cloud API, Stripe, OpenAI, role-based access, webhooks.
-
-**Focus:** inbox operations, AI-assisted replies, usage-based billing, activation workflows and production monitoring.
+**Best for evaluating:** fullstack delivery, authentication, API integration, data modeling, testing and product thinking.
 
 ---
 
-### 💰 DevFlow Financeiro
-Financial management product with health score, insights, monthly checklist, categorization and operational dashboard.
+### 3. ApplyFlow / Career Suite
 
-**Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS, product analytics and business rules.
+**Case Study:** https://github.com/devflow-modules/applyflow-case-study  
+**Ecosystem Repository:** https://github.com/devflow-modules/devflow
 
-**Focus:** financial health score, actionable insights, monthly routines and user-oriented dashboards.
+Local-first and privacy-first workflow assistant for job applications, candidate productivity and interview preparation.
+
+**Why it matters:**
+
+- Local-first product architecture
+- Privacy-first candidate workflow
+- Human-in-the-loop automation design
+- Chrome Extension MV3 + Next.js dashboard concept
+- JSON import/export portability
+- Optional AI coaching with user-controlled API key
+- Documentation-driven product communication
+
+**Best for evaluating:** product architecture, frontend/dashboard thinking, local-first software design, AI-assisted workflows and documentation quality.
 
 ---
 
-### 🎯 Career Suite / ATS Tools
-AI-assisted career tools for resume analysis, job matching, interview preparation and application workflows.
+### 4. @devflow-modules/jwt-auth
 
-**Stack:** Next.js, TypeScript, local-first analysis, OpenAI API, ATS-style scoring, documentation as product.
+**Repository:** https://github.com/devflow-modules/jwt-auth
 
-**Focus:** resume matching, job analysis, interview preparation and AI-assisted career workflows.
+Reusable JWT authentication module for Node.js applications.
+
+**Why it matters:**
+
+- Access token and refresh token support
+- Password hashing and verification
+- Express route protection middleware
+- Role-based authorization middleware
+- HttpOnly Cookie support
+- CI, Codecov, npm badge and test coverage
+
+**Best for evaluating:** reusable package engineering, authentication fundamentals, API design and testing discipline.
 
 ---
 
-## 🛠️ Tech Stack
+## DevFlow Labs
+
+**GitHub Organization:** https://github.com/devflow-modules  
+**Portfolio:** https://devflowlabs.com.br  
+**Recruiter Guide:** https://github.com/devflow-modules/devflow/blob/main/docs/RECRUITER-GUIDE.md
+
+DevFlow Labs is my product engineering lab for building and documenting SaaS products, automation platforms, AI-assisted workflows and reusable modules.
+
+**Engineering focus:**
+
+- Fullstack SaaS architecture
+- Multi-tenant systems
+- Secure authentication and authorization
+- API integrations and webhooks
+- AI-assisted product workflows
+- Dashboards and operational tools
+- Testing, CI/CD and technical documentation
+
+---
+
+## Technical Stack
 
 ### Frontend
 React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Chakra UI • ShadCN UI • Styled Components • HTML5 • CSS3 • Framer Motion
@@ -104,14 +144,24 @@ Node.js • Express.js • Python • FastAPI • Prisma ORM • REST APIs • W
 PostgreSQL • SQLite • Supabase • Redis • Docker • Vercel • Railway • Render • GitHub Actions • CI/CD
 
 ### Testing & Automation
-Jest • Playwright • Selenium • Testing Library • Pytest • RPA • API testing • E2E validation
+Jest • Vitest • Playwright • Selenium • Testing Library • Pytest • RPA • API testing • E2E validation
 
 ### AI & Integrations
 OpenAI API • WhatsApp Cloud API • Stripe • ReceitaWS • Webhooks • CRM integrations • Automation workflows
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
+
+- Building scalable SaaS products under **DevFlow Labs**
+- Improving AI-assisted product workflows
+- Strengthening fullstack architecture with **Next.js, React, Node.js and TypeScript**
+- Creating automation and productivity tools with real business use cases
+- Growing as a Fullstack/Product Engineer for remote and international opportunities
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomarques00&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
@@ -123,20 +173,10 @@ OpenAI API • WhatsApp Cloud API • Stripe • ReceitaWS • Webhooks • CRM 
 
 ---
 
-## 📌 Current Focus
-
-- Building scalable SaaS products under **DevFlow Labs**
-- Improving AI-powered product workflows
-- Strengthening frontend architecture with **Next.js, React and TypeScript**
-- Creating automation and productivity tools with real business use cases
-- Growing as a Fullstack/Product Engineer for remote and international opportunities
-
----
-
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/gustavo-marques-00
 - GitHub: https://github.com/gustavomarques00
 - DevFlow Labs GitHub: https://github.com/devflow-modules
-- Email: gustavomarquesmm@gmail.com
 - Portfolio: https://devflowlabs.com.br
+- Email: gustavomarquesmm@gmail.com
