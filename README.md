@@ -32,21 +32,21 @@ My strongest work is organized under **DevFlow Labs**, a product engineering eco
 
 ### 1. DevFlow WhatsApp Platform
 
-**Repository:** https://github.com/gustavomarques00/devflow-whatsapp-platform
+**Repository:** https://github.com/devflow-modules/devflow/tree/main/apps/whatsapp-platform
 
-Production-ready multi-tenant WhatsApp Cloud API backend built with Node.js, TypeScript, Express, Prisma and PostgreSQL.
+SaaS/white-label WhatsApp operations platform built inside the DevFlow monorepo with Next.js, TypeScript, Prisma, PostgreSQL, Stripe and WhatsApp workflow modules.
 
 **Why it matters:**
 
-- Multi-tenant SaaS architecture
-- WhatsApp Cloud API webhooks
-- Tenant-scoped data access
-- AES-256-GCM token encryption
-- HMAC-SHA256 phone hashing
-- Structured logging, redaction and rate limiting
-- Jest, CI, TypeScript strict and production-oriented backend structure
+- SaaS and white-label product architecture
+- WhatsApp operations and onboarding workflow
+- Tenant configuration and API key generation
+- JWT authentication with cookies
+- Stripe billing and webhook handling
+- Metrics dashboards, agents, queues, FAQ, feedback and exports
+- Accessibility checks with Playwright + axe
 
-**Best for evaluating:** backend architecture, security, API integrations, multi-tenant design and production readiness.
+**Best for evaluating:** product engineering, SaaS architecture, operational dashboards, billing integration, auth flows and business-focused automation.
 
 ---
 
