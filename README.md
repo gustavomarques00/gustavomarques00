@@ -18,6 +18,21 @@ Fullstack Product Engineer | SaaS, Automation & AI Workflows | React • Next.js
 
 ---
 
+## Start Here
+
+If you are a recruiter, hiring manager or technical interviewer, review these first:
+
+| Project | Type | Status | Best for evaluating |
+|---|---|---|---|
+| [Investiga+](https://github.com/devflow-modules/investiga-mais) | Production SaaS | Public repo + live product | Fullstack delivery, authentication, APIs, data modeling and testing |
+| DevFlow WhatsApp Platform | SaaS / white-label platform | Private code, public documentation planned | Product architecture, WhatsApp operations, dashboards, billing and automation |
+| [ApplyFlow / Career Suite](https://github.com/devflow-modules/applyflow-case-study) | Product case study | Public case study | Local-first architecture, privacy-first UX and AI-assisted workflows |
+| [@devflow-modules/jwt-auth](https://github.com/devflow-modules/jwt-auth) | Reusable Node.js package | Public package | Authentication fundamentals, middleware design, testing and package engineering |
+
+Some products are private because they contain proprietary workflows, business logic, credentials, client-related architecture or deployment details. For those, I maintain public case studies and documentation with product context, architecture, decisions, screenshots and roadmap.
+
+---
+
 ## Recruiter Summary
 
 I am a Fullstack Product Engineer based in Santos, São Paulo, Brazil, focused on building complete digital products — from product strategy and architecture to implementation, testing, documentation and deployment.
@@ -30,27 +45,7 @@ My strongest work is organized under **DevFlow Labs**, a product engineering eco
 
 ## Best Projects to Review First
 
-### 1. DevFlow WhatsApp Platform
-
-**Repository:** https://github.com/devflow-modules/devflow/tree/main/apps/whatsapp-platform
-
-SaaS/white-label WhatsApp operations platform built inside the DevFlow monorepo with Next.js, TypeScript, Prisma, PostgreSQL, Stripe and WhatsApp workflow modules.
-
-**Why it matters:**
-
-- SaaS and white-label product architecture
-- WhatsApp operations and onboarding workflow
-- Tenant configuration and API key generation
-- JWT authentication with cookies
-- Stripe billing and webhook handling
-- Metrics dashboards, agents, queues, FAQ, feedback and exports
-- Accessibility checks with Playwright + axe
-
-**Best for evaluating:** product engineering, SaaS architecture, operational dashboards, billing integration, auth flows and business-focused automation.
-
----
-
-### 2. Investiga+
+### 1. Investiga+
 
 **Repository:** https://github.com/devflow-modules/investiga-mais  
 **Live:** https://investigamais.com
@@ -69,6 +64,27 @@ SaaS platform for CNPJ/company intelligence and business data analysis.
 - Docker and CI/CD-ready structure
 
 **Best for evaluating:** fullstack delivery, authentication, API integration, data modeling, testing and product thinking.
+
+---
+
+### 2. DevFlow WhatsApp Platform
+
+**Private product inside DevFlow Labs**  
+**Public case study:** planned
+
+SaaS/white-label WhatsApp operations platform built inside the DevFlow ecosystem with Next.js, TypeScript, Prisma, PostgreSQL, Stripe and WhatsApp workflow modules.
+
+**Why it matters:**
+
+- SaaS and white-label product architecture
+- WhatsApp operations and onboarding workflow
+- Tenant configuration and API key generation
+- JWT authentication with cookies
+- Stripe billing and webhook handling
+- Metrics dashboards, agents, queues, FAQ, feedback and exports
+- Accessibility checks with Playwright + axe
+
+**Best for evaluating:** product engineering, SaaS architecture, operational dashboards, billing integration, auth flows and business-focused automation.
 
 ---
 
