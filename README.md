@@ -11,7 +11,7 @@ Fullstack Product Engineer | SaaS, Automation & AI Workflows | React • Next.js
 <p align="center">
   <a href="https://devflowlabs.com.br">Portfolio</a> •
   <a href="https://github.com/devflow-modules">DevFlow Labs GitHub</a> •
-  <a href="https://github.com/devflow-modules/devflow/blob/main/docs/RECRUITER-GUIDE.md">Recruiter Guide</a> •
+  <a href="https://github.com/devflow-modules/devflow-case-studies">Case Studies</a> •
   <a href="https://www.linkedin.com/in/gustavo-marques-00">LinkedIn</a> •
   <a href="mailto:gustavomarquesmm@gmail.com">Email</a>
 </p>
@@ -25,7 +25,7 @@ If you are a recruiter, hiring manager or technical interviewer, review these fi
 | Project | Type | Status | Best for evaluating |
 |---|---|---|---|
 | [Investiga+](https://github.com/devflow-modules/investiga-mais) | Production SaaS | Public repo + live product | Fullstack delivery, authentication, APIs, data modeling and testing |
-| DevFlow WhatsApp Platform | SaaS / white-label platform | Private code, public documentation planned | Product architecture, WhatsApp operations, dashboards, billing and automation |
+| [DevFlow WhatsApp Platform](https://github.com/devflow-modules/devflow-case-studies/tree/main/case-studies/whatsapp-platform) | SaaS / white-label platform | Private code + public case study | Product architecture, WhatsApp operations, dashboards, billing and automation |
 | [ApplyFlow / Career Suite](https://github.com/devflow-modules/applyflow-case-study) | Product case study | Public case study | Local-first architecture, privacy-first UX and AI-assisted workflows |
 | [@devflow-modules/jwt-auth](https://github.com/devflow-modules/jwt-auth) | Reusable Node.js package | Public package | Authentication fundamentals, middleware design, testing and package engineering |
 
@@ -69,8 +69,8 @@ SaaS platform for CNPJ/company intelligence and business data analysis.
 
 ### 2. DevFlow WhatsApp Platform
 
-**Private product inside DevFlow Labs**  
-**Public case study:** planned
+**Public Case Study:** https://github.com/devflow-modules/devflow-case-studies/tree/main/case-studies/whatsapp-platform  
+**Case Hub:** https://github.com/devflow-modules/devflow-case-studies
 
 SaaS/white-label WhatsApp operations platform built inside the DevFlow ecosystem with Next.js, TypeScript, Prisma, PostgreSQL, Stripe and WhatsApp workflow modules.
 
@@ -132,7 +132,7 @@ Reusable JWT authentication module for Node.js applications.
 
 **GitHub Organization:** https://github.com/devflow-modules  
 **Portfolio:** https://devflowlabs.com.br  
-**Recruiter Guide:** https://github.com/devflow-modules/devflow/blob/main/docs/RECRUITER-GUIDE.md
+**Case Studies:** https://github.com/devflow-modules/devflow-case-studies
 
 DevFlow Labs is my product engineering lab for building and documenting SaaS products, automation platforms, AI-assisted workflows and reusable modules.
 
